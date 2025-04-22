@@ -2,7 +2,7 @@
 
 ## Part One - Parsing
 
-We would like you to take `example.csv` that we provide and parse out the contents of the file into a structured data format.
+We would like you to take `example.csv` and parse out the contents of the file into a structured data format.
 
 ## Part Two - Grouping
 
